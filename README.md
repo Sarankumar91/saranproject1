@@ -1,2 +1,2 @@
-# saranproject1
+# saran file is ready
 saranproject1
